@@ -1,0 +1,9 @@
+#Configuration for Base_COMSerie.conf
+#Sun Jun 19 19:20:35 CEST 2022
+windowBounds=0, 46, 1084, 727
+Databits=8
+BaudRate=115200
+serialConsole=true
+comPort=COM3
+Parity=None
+Stopbits=1
